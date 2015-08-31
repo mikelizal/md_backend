@@ -1,0 +1,6 @@
+1- Descargar Meteor.zip
+2- Descargar Makefile
+3- Ir al directorio donde se ha descargado el 1 y 2
+4- Escribir en linea de comandos : sudo make install
+
+ (Se ejecutara el programa java todos los d’as a las 10:00)
