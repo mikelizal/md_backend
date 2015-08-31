@@ -110,7 +110,7 @@ public class Main {
 								cont++;
 							}
 							datos = datos.replace(" ", "");
-							System.out.println("datooooooss "+datos);
+							System.out.println("datos : "+datos);
 							jsonObj.put("mes", mes);
 							jsonObj.put("observador",observador);
 							jsonObj.put("antena",antena);
