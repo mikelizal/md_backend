@@ -1,0 +1,21 @@
+
+<form action="index.php" method="post" class ="table">
+<h2>Modificaci&oacute;n de administradores</h2>
+
+	Username: <input type="text" name="name3" value="##name##"/ required><br>
+	Nombre:   <input type="text" name="nombre" value="##nombre##"/><br>
+	Apellido: <input type="text" name="apellido" value="##apellido##"/><br>
+	Correo:   <input type="text" name="mail" value="##mail##"/><br>
+	Escribe una nueva contraseña si deseas cambiarla <br>
+	En caso contrario no pongas nada<br>
+	Password: <input type="password" name="password" value=""/><br>
+
+
+	<input type="hidden" name="accion" value="bymadmin" />
+	<input type="hidden" name="id" value="3" />
+	<input type="hidden" name="idadmin" value="##idadmin##" />
+	<input type="submit" value="Enviar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</form>
+
+<br><br>
+<a href="index.php" class="btn btn-info">Volver</a>

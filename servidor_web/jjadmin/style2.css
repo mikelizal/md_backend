@@ -1,0 +1,39 @@
+body{
+font-family: "Trebuchet MS", Arial, sans-serif;
+font-size: 14px;
+line-height: 18px;
+
+list-style:none;
+
+background-color: #191970;
+padding-left: 205px;
+padding-right: 205px;
+
+}
+a:link {
+color: black;
+text-decoration: none;
+
+}
+a:visited {
+color: black;
+text-decoration: none;
+}
+
+
+
+div.login{
+max-width:32%;
+background-color:#C0C0C0;
+color:white;
+padding:30px;
+margin: 0 auto;
+position:relative;top:200px;
+-moz-border-radius:15px;
+-webkit-border-radius: 15px;
+border-radius: 15px;
+}
+
+
+
+
